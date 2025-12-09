@@ -68,5 +68,4 @@ Email: (lab or PI email)
 
 ## 🙏 Acknowledgements  
 (Optional section for grants, funding bodies, or collaborators.)
-# Overview
-CVML-KU Organization Profile
+
