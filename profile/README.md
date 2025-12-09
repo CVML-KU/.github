@@ -46,8 +46,8 @@ Tools, utilities, sandbox code, and projects.
 
 | 🗂️ Repository | 📝 Description | 🔗 Link |
 |----------------|----------------|----------|
-| STING-BEE Tools | Utility tools and helper scripts for multimodal X-ray security research. | https://github.com/dummy-repo |
-| STING-BEE Sandbox | Experimental code and prototypes for vision-language modeling in X-ray security. | https://github.com/dummy-repo |
+| Vision-Based-Class-Attendance-System | Automated class attendance system based on facial recognition. | [Repo](https://github.com/CVML-KU/Vision-Based-Class-Attendance-System) |
+| STING-BEE Sandbox | Experimental code and prototypes for vision-language modeling in X-ray security. | Repo |
 
 ---
 
