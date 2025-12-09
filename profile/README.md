@@ -47,7 +47,7 @@ Tools, utilities, sandbox code, and projects.
 | 🗂️ Repository | 📝 Description | 🔗 Link |
 |----------------|----------------|----------|
 | Vision-Based-Class-Attendance-System | Automated class attendance system based on facial recognition. | [Repo](https://github.com/CVML-KU/Vision-Based-Class-Attendance-System) |
-| STING-BEE Sandbox | Experimental code and prototypes for vision-language modeling in X-ray security. | Repo |
+| FaceNet |Real-time face recognition model. | [Repo](https://github.com/CVML-KU/FaceNet)|
 
 ---
 
