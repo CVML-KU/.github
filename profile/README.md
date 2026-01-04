@@ -47,7 +47,8 @@ Tools, utilities, sandbox code, and projects.
 | 🗂️ Repository | 📝 Description | 🔗 Link |
 |----------------|----------------|----------|
 | Vision-Based-Class-Attendance-System | Automated class attendance system based on facial recognition. | [Repo](https://github.com/CVML-KU/Vision-Based-Class-Attendance-System) |
-| FaceNet |Real-time face recognition model. | [Repo](https://github.com/CVML-KU/FaceNet)|
+| FaceNet | Real-time face recognition model. | [Repo](https://github.com/CVML-KU/FaceNet)|
+| Xray-to-Xray_Data_Augmentation | Synthesize X-ray baggage images. | [Repo](https://github.com/CVML-KU/Xray-to-Xray_Data_Augmentation) |
 
 ---
 
