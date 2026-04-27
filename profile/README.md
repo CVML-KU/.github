@@ -58,8 +58,8 @@ Interactive web-based demos developed by the CVML Lab, enabling real-time visual
 
 | 🧠 Application | 📝 Description | 🔗 Demo |
 |---------------|----------------|----------|
-| 🧳 **Secure-X (X-ray Threat Detection)** | Real-time X-ray baggage threat detection system for security screening and inspection. | [Launch Demo](https://huggingface.co/spaces/Iyyakutti123/IBSAR-threat-detection) |
-| 🧠 **Brain Lesion Segmentation** | Visualization and segmentation of brain lesions from medical imaging volumes (NIfTI format). | [Launch Demo](https://huggingface.co/spaces/maregu2023/LesionDetection) |
+| 🧳 **Secure-X (X-ray Threat Detection)** | Real-time X-ray baggage threat detection system for security screening and inspection. | [Launch_Demo](https://huggingface.co/spaces/Iyyakutti123/IBSAR-threat-detection) |
+| 🧠 **Brain Lesion Segmentation** | Visualization and segmentation of brain lesions from medical imaging volumes (NIfTI format). | [Launch_Demo](https://huggingface.co/spaces/maregu2023/LesionDetection) |
 
 ---
 
