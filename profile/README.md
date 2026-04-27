@@ -53,21 +53,22 @@ Tools, utilities, sandbox code, and projects.
 
 ---
 
-## 📄 Publications  
-You may link to:  
-- Google Scholar  
-- ResearchGate  
-- KU faculty profile  
-- Lab publications page  
+## 📚 Publications & Profiles  
+
+Explore the research outputs and academic profiles of the CVML Lab:
+
+- 🔗 [**Google Scholar**](https://scholar.google.com/citations?user=G_2Xpm0AAAAJ&hl=en)  
+- 🏫 [**Khalifa University Profile**](https://www.ku.ac.ae/college-people/naoufel-werghi)  
+- 🌐 [**Personal Website**](https://naoufelwerghi.net/)  
+- 📄 [**Publications Page**](https://naoufelwerghi.net/publications/)  
 
 ---
 
 ## 📬 Contact  
-Website: (add link)  
-Email: (lab or PI email)
+
+For collaboration, research inquiries, or access to CVML Lab resources:
+
+- 📧 **Email**: naoufel.werghi@ku.ac.ae  
+- 🌐 [**Website**](https://naoufelwerghi.net/)  
 
 ---
-
-## 🙏 Acknowledgements  
-(Optional section for grants, funding bodies, or collaborators.)
-
