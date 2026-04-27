@@ -52,6 +52,16 @@ Tools, utilities, sandbox code, and projects.
 | Xray-to-Xray_Data_Augmentation | Synthesize X-ray baggage images. | [Repo](https://github.com/CVML-KU/Xray-to-Xray_Data_Augmentation) |
 
 ---
+## 🌐 Web Applications  
+
+Interactive web-based demos developed by the CVML Lab, enabling real-time visualization and testing of our research systems.
+
+| 🧠 Application | 📝 Description | 🔗 Demo |
+|---------------|----------------|----------|
+| 🧳 **Secure-X (X-ray Threat Detection)** | Real-time X-ray baggage threat detection system for security screening and inspection. | [Launch Demo](https://huggingface.co/spaces/Iyyakutti123/IBSAR-threat-detection) |
+| 🧠 **Brain Lesion Segmentation** | Visualization and segmentation of brain lesions from medical imaging volumes (NIfTI format). | [Launch Demo](https://huggingface.co/spaces/maregu2023/LesionDetection) |
+
+---
 
 ## 📚 Publications & Profiles  
 
