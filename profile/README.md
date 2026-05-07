@@ -21,6 +21,7 @@ Researching intelligent visual and audio analytics for security, environmental m
 
 | 📘 Title / Paper | 📝 Description | 🗂️ Repository | 🏅 Venue | 🎬 Demo |
 |------------------|----------------|---------------|-----------|-----------|
+|**A Benchmark Dataset for Concealed Improvised Explosive Device Detection in X-ray Security Imaging**| Novel IED dataset with diverse IED types— homemade explosives, batteries, and modified devices such as laptops, mobile phones, pagers, and walkie-talkies. | [IEDXray](https://github.com/Natnael-gh/IEDXray) | Scientific Data (2026)| - |
 | [**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**](https://arxiv.org/abs/2504.02823) | A domain-aware vision-language model to support multimodal X-ray security tasks (Grounding, VQA, and scene understanding). | [STING-BEE](https://github.com/Divs1159/STING-BEE) | CVPR'25-Highlight| [Demo](https://youtu.be/_efmQW2nSGw) |
 | [**X-SSL: Self-supervised X-ray threat detection with zero-shot and multi-modal learning**](https://www.sciencedirect.com/science/article/pii/S0306457325002808) | A self-supervised X-ray threat localization framework. | [X-SSL](https://github.com/yonathan-kiflom/X-SSL) | Information Processing & Management (2026) | Demo |
 | [**Video anomaly detection in 10 years: A survey and outlook**](https://link.springer.com/article/10.1007/s00521-025-11659-8) | Survey of deep learning video anomaly detection, including VLMs, challenges, methods, and future directions. | - | Neural Computing and Applications | -|
