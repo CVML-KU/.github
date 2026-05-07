@@ -35,11 +35,11 @@ We develop advanced computer vision and machine learning methods for the analysi
 
 ### 📄 Featured Works
 
-| 📘 Title / Paper | 📝 Description | 🗂️ Repository | 🏅 Venue | 🎬 Demo |
-|------------------|----------------|---------------|-----------|-----------|
-| [**DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation**](https://arxiv.org/abs/2504.04566) | A dynamic uncertainty-aware semi-supervised segmentation framework for robust learning under class imbalance. | [DyCON](https://github.com/KU-CVML/DyCON)| CVPR'25| https://youtube.com/dummy-demo |
-| [**TriGAN-SiaMT: A Triple-Segmentor Adversarial Network with Bounding Box Priors for Semi-Supervised Brain Lesion Segmentation**](https://www.sciencedirect.com/science/article/pii/S0167865525003861) | Semi-supervised segmentation framework that integrates adversarial learning, multi-level consistency regularization, and bounding box priors. | [TriGAN](https://github.com/MAlshurbaji/TriGAN-SiaMT/) |  Pattern Recognition Letters (2025) | [Demo](https://www.youtube.com/watch?v=EUI6ZappxkQ) |
-| **STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection** | A domain-aware vision-language model to support multimodal X-ray security tasks (Grounding, VQA, and scene understanding). | Repo | CVPR'25 | Demo |
+| 📘 Title / Paper | 📝 Description | 🗂️ Repository | 📄 Paper | 🏅 Venue | 🎬 Demo |
+|------------------|----------------|---------------|----------|-----------|-----------|
+| [**DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation**](https://arxiv.org/abs/2504.04566) | A dynamic uncertainty-aware semi-supervised segmentation framework for robust learning under class imbalance. | [DyCON](https://github.com/KU-CVML/DyCON) | -- | CVPR'25 | https://youtube.com/dummy-demo |
+| [**TriGAN-SiaMT: A Triple-Segmentor Adversarial Network with Bounding Box Priors for Semi-Supervised Brain Lesion Segmentation**](https://www.sciencedirect.com/science/article/pii/S0167865525003861) | Semi-supervised segmentation framework that integrates adversarial learning, multi-level consistency regularization, and bounding box priors. | [TriGAN](https://github.com/MAlshurbaji/TriGAN-SiaMT/) | -- | Pattern Recognition Letters (2025) | [Demo](https://www.youtube.com/watch?v=EUI6ZappxkQ) |
+| **STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection** | A domain-aware vision-language model to support multimodal X-ray security tasks (Grounding, VQA, and scene understanding). | Repo | -- | CVPR'25 | Demo |
 
 ---
 
