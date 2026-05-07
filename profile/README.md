@@ -19,15 +19,15 @@ Researching intelligent visual and audio analytics for security, environmental m
 
 ### 📄 Featured Works
 
-| 📘 Title / Paper | 📝 Description | 🗂️ Repository | 🏅 Venue | 🎬 Demo |
-|------------------|----------------|---------------|-----------|-----------|
-|**A Benchmark Dataset for Concealed Improvised Explosive Device Detection in X-ray Security Imaging**| Novel IED dataset with diverse IED types— homemade explosives, batteries, and modified devices such as laptops, mobile phones, pagers, and walkie-talkies. | [IEDXray](https://github.com/Natnael-gh/IEDXray) | Scientific Data (2026)| - |
-| [**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**](https://arxiv.org/abs/2504.02823) | A domain-aware vision-language model to support multimodal X-ray security tasks (Grounding, VQA, and scene understanding). | [STING-BEE](https://github.com/Divs1159/STING-BEE) | CVPR'25-Highlight| [Demo](https://youtu.be/_efmQW2nSGw) |
-| [**X-SSL: Self-supervised X-ray threat detection with zero-shot and multi-modal learning**](https://www.sciencedirect.com/science/article/pii/S0306457325002808) | A self-supervised X-ray threat localization framework. | [X-SSL](https://github.com/yonathan-kiflom/X-SSL) | Information Processing & Management (2026) | Demo |
-| [**Video anomaly detection in 10 years: A survey and outlook**](https://link.springer.com/article/10.1007/s00521-025-11659-8) | Survey of deep learning video anomaly detection, including VLMs, challenges, methods, and future directions. | - | Neural Computing and Applications | -|
-| [**Training-Free VLM-Based Pseudo Label Generation for Video Anomaly Detection**](https://www.researchgate.net/publication/392109179_Training-Free_VLM-Based_Pseudo_Label_Generation_for_Video_Anomaly_Detection) | Novel Training-free pseudo-label generation module for Weakly Supervised Video Anomaly Detection. | [TFPLG](https://github.com/MoshiraAbdalla/TFPLG_VAD)| IEEE Access | - |
+| 📘 Title / Paper | 📝 Description | 🗂️ Repository | 📄 Paper | 🏅 Venue | 🎬 Demo |
+|------------------|----------------|---------------|----------|-----------|-----------|
+| [**A Benchmark Dataset for Concealed Improvised Explosive Device Detection in X-ray Security Imaging**](https://www.nature.com/articles/s41597-026-07263-7) | Novel IED dataset with diverse IED types— homemade explosives, batteries, and modified devices such as laptops, mobile phones, pagers, and walkie-talkies. | [IEDXray](https://github.com/Natnael-gh/IEDXray) | [PDF](https://github.com/CVML-KU/Papers/blob/main/IEDXray.pdf) | Scientific Data (2026) | - |
+| [**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**](https://arxiv.org/abs/2504.02823) | A domain-aware vision-language model to support multimodal X-ray security tasks (Grounding, VQA, and scene understanding). | [STING-BEE](https://github.com/Divs1159/STING-BEE) | -- | CVPR'25-Highlight | [Demo](https://youtu.be/_efmQW2nSGw) |
+| [**X-SSL: Self-supervised X-ray threat detection with zero-shot and multi-modal learning**](https://www.sciencedirect.com/science/article/pii/S0306457325002808) | A self-supervised X-ray threat localization framework. | [X-SSL](https://github.com/yonathan-kiflom/X-SSL) | -- | Information Processing & Management (2026) | Demo |
+| [**Video anomaly detection in 10 years: A survey and outlook**](https://link.springer.com/article/10.1007/s00521-025-11659-8) | Survey of deep learning video anomaly detection, including VLMs, challenges, methods, and future directions. | - | -- | Neural Computing and Applications | - |
+| [**Training-Free VLM-Based Pseudo Label Generation for Video Anomaly Detection**](https://www.researchgate.net/publication/392109179_Training-Free_VLM-Based_Pseudo_Label_Generation_for_Video_Anomaly_Detection) | Novel Training-free pseudo-label generation module for Weakly Supervised Video Anomaly Detection. | [TFPLG](https://github.com/MoshiraAbdalla/TFPLG_VAD) | -- | IEEE Access | - |
 
----
+--
 
 ## 🩺 Medical Imaging  
 
