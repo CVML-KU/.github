@@ -53,7 +53,7 @@ Tools, utilities, sandbox code, and projects.
 | Vision-Based-Class-Attendance-System | Automated class attendance system based on facial recognition. | [Repo](https://github.com/CVML-KU/Vision-Based-Class-Attendance-System) |
 | FaceNet | Real-time face recognition model. | [Repo](https://github.com/CVML-KU/FaceNet)|
 | Xray-to-Xray_Data_Augmentation | Synthesize X-ray baggage images. | [Repo](https://github.com/CVML-KU/Xray-to-Xray_Data_Augmentation) |
-|Real-time Class Attendance System | Automated class attendance tracking system using CCTV camera. | [Repo from Maregu Assefa]([https://github.com/CVML-KU/Xray-to-Xray_Data_Augmentation](https://github.com/Endarzboy/MultiCamera_FaceRecognition)) |
+|Real-time Class Attendance System | Automated class attendance tracking system using CCTV camera. | [Repo from Maregu Assefa](https://github.com/Endarzboy/MultiCamera_FaceRecognition) |
 
 ---
 ## 🌐 Web Applications  
